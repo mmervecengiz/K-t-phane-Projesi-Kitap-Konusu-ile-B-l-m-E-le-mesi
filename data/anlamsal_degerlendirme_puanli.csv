@@ -1,0 +1,91 @@
+Model Adı,Sıra,Açıklama,Puan
+tfidf_lemmatized,1,declaration independence united state america...,4
+tfidf_lemmatized,2,declaration independence united state america...,5
+tfidf_lemmatized,3,united state declaration independence...,3
+tfidf_lemmatized,4,declaration independence address...,5
+tfidf_lemmatized,5,united state america part...,5
+tfidf_stemmed,1,declar independ unit state america...,2
+tfidf_stemmed,2,declar independ unit state america...,3
+tfidf_stemmed,3,unit state declar independ...,3
+tfidf_stemmed,4,declar independ address...,3
+tfidf_stemmed,5,unit state america part...,5
+word2vec_lemmatized_cbow_win2_dim100,1,declaration independence united state america...,4
+word2vec_lemmatized_cbow_win2_dim100,2,declaration independence united state america...,3
+word2vec_lemmatized_cbow_win2_dim100,3,united state latin america...,5
+word2vec_lemmatized_cbow_win2_dim100,4,constitution united state america...,2
+word2vec_lemmatized_cbow_win2_dim100,5,training teacher united state america...,4
+word2vec_lemmatized_cbow_win2_dim300,1,declaration independence united state america...,2
+word2vec_lemmatized_cbow_win2_dim300,2,declaration independence united state america...,4
+word2vec_lemmatized_cbow_win2_dim300,3,united state latin america...,5
+word2vec_lemmatized_cbow_win2_dim300,4,constitution united state america...,1
+word2vec_lemmatized_cbow_win2_dim300,5,training teacher united state america...,4
+word2vec_lemmatized_cbow_win4_dim100,1,declaration independence united state america...,2
+word2vec_lemmatized_cbow_win4_dim100,2,declaration independence united state america...,5
+word2vec_lemmatized_cbow_win4_dim100,3,united state latin america...,4
+word2vec_lemmatized_cbow_win4_dim100,4,constitution united state america...,1
+word2vec_lemmatized_cbow_win4_dim100,5,training teacher united state america...,1
+word2vec_lemmatized_cbow_win4_dim300,1,declaration independence united state america...,3
+word2vec_lemmatized_cbow_win4_dim300,2,declaration independence united state america...,3
+word2vec_lemmatized_cbow_win4_dim300,3,united state latin america...,2
+word2vec_lemmatized_cbow_win4_dim300,4,constitution united state america...,4
+word2vec_lemmatized_cbow_win4_dim300,5,training teacher united state america...,4
+word2vec_lemmatized_skipgram_win2_dim100,1,declaration independence united state america...,3
+word2vec_lemmatized_skipgram_win2_dim100,2,declaration independence united state america...,4
+word2vec_lemmatized_skipgram_win2_dim100,3,united state latin america...,4
+word2vec_lemmatized_skipgram_win2_dim100,4,constitution united state america...,1
+word2vec_lemmatized_skipgram_win2_dim100,5,suppression african slave trade united state ameri...,3
+word2vec_lemmatized_skipgram_win2_dim300,1,declaration independence united state america...,5
+word2vec_lemmatized_skipgram_win2_dim300,2,declaration independence united state america...,3
+word2vec_lemmatized_skipgram_win2_dim300,3,united state latin america...,5
+word2vec_lemmatized_skipgram_win2_dim300,4,constitution united state america...,1
+word2vec_lemmatized_skipgram_win2_dim300,5,latin america united state address elihu root...,2
+word2vec_lemmatized_skipgram_win4_dim100,1,declaration independence united state america...,4
+word2vec_lemmatized_skipgram_win4_dim100,2,declaration independence united state america...,1
+word2vec_lemmatized_skipgram_win4_dim100,3,suppression african slave trade united state ameri...,4
+word2vec_lemmatized_skipgram_win4_dim100,4,constitution united state america...,2
+word2vec_lemmatized_skipgram_win4_dim100,5,united state latin america...,2
+word2vec_lemmatized_skipgram_win4_dim300,1,declaration independence united state america...,1
+word2vec_lemmatized_skipgram_win4_dim300,2,declaration independence united state america...,2
+word2vec_lemmatized_skipgram_win4_dim300,3,constitution united state america...,5
+word2vec_lemmatized_skipgram_win4_dim300,4,united state latin america...,2
+word2vec_lemmatized_skipgram_win4_dim300,5,suppression african slave trade united state ameri...,4
+word2vec_stemmed_cbow_win2_dim100,1,declar independ unit state america...,4
+word2vec_stemmed_cbow_win2_dim100,2,declar independ unit state america...,4
+word2vec_stemmed_cbow_win2_dim100,3,unit state latin america...,4
+word2vec_stemmed_cbow_win2_dim100,4,constitut unit state america...,5
+word2vec_stemmed_cbow_win2_dim100,5,train teacher unit state america...,3
+word2vec_stemmed_cbow_win2_dim300,1,declar independ unit state america...,1
+word2vec_stemmed_cbow_win2_dim300,2,declar independ unit state america...,4
+word2vec_stemmed_cbow_win2_dim300,3,unit state latin america...,2
+word2vec_stemmed_cbow_win2_dim300,4,constitut unit state america...,4
+word2vec_stemmed_cbow_win2_dim300,5,train teacher unit state america...,2
+word2vec_stemmed_cbow_win4_dim100,1,declar independ unit state america...,2
+word2vec_stemmed_cbow_win4_dim100,2,declar independ unit state america...,4
+word2vec_stemmed_cbow_win4_dim100,3,unit state latin america...,5
+word2vec_stemmed_cbow_win4_dim100,4,constitut unit state america...,2
+word2vec_stemmed_cbow_win4_dim100,5,train teacher unit state america...,2
+word2vec_stemmed_cbow_win4_dim300,1,declar independ unit state america...,4
+word2vec_stemmed_cbow_win4_dim300,2,declar independ unit state america...,2
+word2vec_stemmed_cbow_win4_dim300,3,unit state latin america...,2
+word2vec_stemmed_cbow_win4_dim300,4,constitut unit state america...,4
+word2vec_stemmed_cbow_win4_dim300,5,train teacher unit state america...,4
+word2vec_stemmed_skipgram_win2_dim100,1,declar independ unit state america...,1
+word2vec_stemmed_skipgram_win2_dim100,2,declar independ unit state america...,5
+word2vec_stemmed_skipgram_win2_dim100,3,constitut unit state america...,5
+word2vec_stemmed_skipgram_win2_dim100,4,unit state latin america...,2
+word2vec_stemmed_skipgram_win2_dim100,5,copyright law unit state america contain titl unit...,5
+word2vec_stemmed_skipgram_win2_dim300,1,declar independ unit state america...,2
+word2vec_stemmed_skipgram_win2_dim300,2,declar independ unit state america...,1
+word2vec_stemmed_skipgram_win2_dim300,3,unit state latin america...,4
+word2vec_stemmed_skipgram_win2_dim300,4,constitut unit state america...,4
+word2vec_stemmed_skipgram_win2_dim300,5,unit state declar independ...,4
+word2vec_stemmed_skipgram_win4_dim100,1,declar independ unit state america...,5
+word2vec_stemmed_skipgram_win4_dim100,2,declar independ unit state america...,1
+word2vec_stemmed_skipgram_win4_dim100,3,constitut unit state america...,5
+word2vec_stemmed_skipgram_win4_dim100,4,suppress african slave trade unit state america...,5
+word2vec_stemmed_skipgram_win4_dim100,5,unit state latin america...,1
+word2vec_stemmed_skipgram_win4_dim300,1,declar independ unit state america...,1
+word2vec_stemmed_skipgram_win4_dim300,2,declar independ unit state america...,1
+word2vec_stemmed_skipgram_win4_dim300,3,constitut unit state america...,1
+word2vec_stemmed_skipgram_win4_dim300,4,unit state latin america...,4
+word2vec_stemmed_skipgram_win4_dim300,5,unit state declar independ...,3
